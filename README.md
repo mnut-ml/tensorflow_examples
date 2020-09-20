@@ -1,2 +1,4 @@
 # tensorflow_examples
-juputer folder contains jupyter scripts
+keras folder contains examples from Deep learning with Python book
+jupyter folder contains jupyter scripts
+
